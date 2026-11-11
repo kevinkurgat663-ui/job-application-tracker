@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Harbour Labs (Demo)",
+    "role": "Backend Engineer",
+    "status": "Interview",
+    "priority": "High",
+    "location": "Australia",
+    "work_mode": "Remote",
+    "job_url": "",
+    "salary": "",
+    "applied_date": "2026-11-04",
+    "deadline": "",
+    "follow_up": "",
+    "interview_date": "2026-11-14",
+    "next_step": "Prepare API design examples",
+    "notes": "Fictional demonstration record. Not a real vacancy."
+  },
+  {
+    "company": "Cedar Systems (Demo)",
+    "role": "Python Developer",
+    "status": "Applied",
+    "priority": "Medium",
+    "location": "Australia",
+    "work_mode": "Remote",
+    "job_url": "",
+    "salary": "",
+    "applied_date": "2026-11-04",
+    "deadline": "",
+    "follow_up": "2026-11-10",
+    "interview_date": "",
+    "next_step": "Check application status",
+    "notes": "Fictional demonstration record. Not a real vacancy."
+  },
+  {
+    "company": "Northstar Studio (Demo)",
+    "role": "Platform Engineer",
+    "status": "Researching",
+    "priority": "High",
+    "location": "Australia",
+    "work_mode": "Remote",
+    "job_url": "",
+    "salary": "",
+    "applied_date": "",
+    "deadline": "2026-11-16",
+    "follow_up": "",
+    "interview_date": "",
+    "next_step": "Review role requirements",
+    "notes": "Fictional demonstration record. Not a real vacancy."
+  }
+]
